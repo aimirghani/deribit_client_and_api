@@ -13,7 +13,7 @@ The last component of the app is a CLI that provides three main commands.
 ---
 ### Installation
 1. Clone the repo.
-2. Install the dependencies     
+2. Install the dependencies, (recommended to be in virtual environment, Python -v 3.9.17)    
 ```Python
 pip install -r requirements.txt
 ```
